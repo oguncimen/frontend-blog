@@ -21,7 +21,7 @@ This project demonstrates modern frontend practices, clean UI, and cloud deploym
 
 ---
 ## 🌐 Live Demo
-👉 [View on Vercel](https://frontend-blog-xxxxx.vercel.app)
+👉 [View on Vercel](https://frontend-blog-nk4vxhrjo-oguncimens-projects.vercel.app)
 
 ## 📦 Getting Started
 
