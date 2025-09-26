@@ -20,6 +20,8 @@ This project demonstrates modern frontend practices, clean UI, and cloud deploym
 - Deployed on Vercel with automatic GitHub integration
 
 ---
+## 🌐 Live Demo
+👉 [View on Vercel](https://frontend-blog-xxxxx.vercel.app)
 
 ## 📦 Getting Started
 
